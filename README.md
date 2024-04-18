@@ -21,6 +21,7 @@ To place the object in the basket, a plan need to be generated. Here, the RRT me
 
 # Result
 [Here](demo_with_banana.webm) is a demonstration of the result. 
+![DEMO](RRT.png)
 For further information refer to the report.
 
 
